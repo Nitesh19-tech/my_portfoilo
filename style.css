@@ -98,7 +98,7 @@ section {
 
 #contact h2 {
     font-size: 28px;
-    color: #fff;
+    color: black;
     margin-bottom: 20px;
     font-weight: 600;
 }
@@ -114,21 +114,21 @@ section {
     padding: 12px 20px;
     margin: 10px 0;
     font-size: 16px;
-    border-radius: 30px;
-    width: 250px;
+    border-radius: 15px;
+    width: 200px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: background-color 0.3s, transform 0.3s;
 }
 
 #contact a:hover {
-    background-color: #e68900;
+    background-color: lightgreen;
     transform: translateY(-3px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
 }
 
 #contact a i {
-    margin-right: 10px;
-    font-size: 18px;
+    margin-right: 5px;
+    font-size: 14px;
 }
 
 #contact a:focus {
